@@ -1,0 +1,36 @@
+
+/* Class = "UIButton"; normalTitle = "关闭"; ObjectID = "0Mu-Qq-68n"; */
+"0Mu-Qq-68n.normalTitle" = "關閉";
+
+/* Class = "UISegmentedControl"; 7Uy-lR-h4I.segmentTitles[0] = "1.0"; ObjectID = "7Uy-lR-h4I"; */
+"7Uy-lR-h4I.segmentTitles[0]" = "1.0";
+
+/* Class = "UISegmentedControl"; 7Uy-lR-h4I.segmentTitles[1] = "2.0"; ObjectID = "7Uy-lR-h4I"; */
+"7Uy-lR-h4I.segmentTitles[1]" = "2.0";
+
+/* Class = "UISegmentedControl"; 7Uy-lR-h4I.segmentTitles[2] = "3.0"; ObjectID = "7Uy-lR-h4I"; */
+"7Uy-lR-h4I.segmentTitles[2]" = "3.0";
+
+/* Class = "UISegmentedControl"; 7Uy-lR-h4I.segmentTitles[3] = "4.0"; ObjectID = "7Uy-lR-h4I"; */
+"7Uy-lR-h4I.segmentTitles[3]" = "4.0";
+
+/* Class = "UISegmentedControl"; 7Uy-lR-h4I.segmentTitles[4] = "5.0"; ObjectID = "7Uy-lR-h4I"; */
+"7Uy-lR-h4I.segmentTitles[4]" = "5.0";
+
+/* Class = "UILabel"; text = "Pencil敏感系数"; ObjectID = "9Hx-Xo-S1t"; */
+"9Hx-Xo-S1t.text" = "Pencil敏感系數";
+
+/* Class = "UISegmentedControl"; tZl-7B-k0H.segmentTitles[0] = "黑"; ObjectID = "tZl-7B-k0H"; */
+"tZl-7B-k0H.segmentTitles[0]" = "黑";
+
+/* Class = "UISegmentedControl"; tZl-7B-k0H.segmentTitles[1] = "蓝"; ObjectID = "tZl-7B-k0H"; */
+"tZl-7B-k0H.segmentTitles[1]" = "蓝";
+
+/* Class = "UISegmentedControl"; tZl-7B-k0H.segmentTitles[2] = "红"; ObjectID = "tZl-7B-k0H"; */
+"tZl-7B-k0H.segmentTitles[2]" = "紅";
+
+/* Class = "UISegmentedControl"; tZl-7B-k0H.segmentTitles[3] = "绿"; ObjectID = "tZl-7B-k0H"; */
+"tZl-7B-k0H.segmentTitles[3]" = "綠";
+
+/* Class = "UISegmentedControl"; tZl-7B-k0H.segmentTitles[4] = "黄"; ObjectID = "tZl-7B-k0H"; */
+"tZl-7B-k0H.segmentTitles[4]" = "黄";

@@ -1,0 +1,29 @@
+/* 
+  Localizable.strings
+  MyDiaryForEvernote
+
+  Created by shiweiwei on 16/2/29.
+  Copyright © 2016年 shiww. All rights reserved.
+*/
+"SORRY"="對不起";
+"EVERNOTE_LOGIN_FAILED"="evernote login failed!";
+"SYSTEMINFO"="系統信息";
+"UPLOAD_EVERNOTE_NOW"="正在保存到Evernote...";
+"UPLOAD_EVERNOTE_SUCCEED"="成功保存到Evernote!";
+"UPLOAD_EVERNOTE_FAIL"="保存到Evernote失敗";
+"LOGIN_EVERNOTE_NOW"="開始連接evernote...";
+"LOAD_INFO_NOW"="開始加載相關信息...";
+"LOAD_INFO_SUCCEED"="信息加載完畢!";
+"DONT_HAVE_NOTEBOOK"="沒有可選的筆記本!";
+"INPUT_AGAIN"="請重新輸入！";
+"ERROR"="錯誤";
+"CLOSE"="關閉";
+"OK"="確定";
+"CANCEL"="取消";
+"INFO"="提示";
+"SAVE_SUCCEED"="保存成功!";
+"WARNING"="警告";
+"DELETE_PAGE_CONFIRM"="妳確認要刪除當前頁面嗎?";
+"CLEAR_PAGE_CONFIRM"="妳確認要清除當前所有內容嗎?";
+"DIARY"="日記";
+"BEGIN_WRITEDIARY"="開始寫日記";

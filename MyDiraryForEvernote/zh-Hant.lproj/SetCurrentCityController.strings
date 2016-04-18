@@ -1,0 +1,9 @@
+
+/* Class = "UITextField"; text = "北京"; ObjectID = "3Np-J1-SBN"; */
+"3Np-J1-SBN.text" = "北京";
+
+/* Class = "UILabel"; text = "请输入你所在的城市名称："; ObjectID = "4gg-Yh-9g6"; */
+"4gg-Yh-9g6.text" = "請輸入妳所在的城市名稱：";
+
+/* Class = "UIButton"; normalTitle = "确定"; ObjectID = "wwx-tQ-waw"; */
+"wwx-tQ-waw.normalTitle" = "確定";

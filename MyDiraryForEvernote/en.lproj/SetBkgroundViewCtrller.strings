@@ -1,0 +1,9 @@
+
+/* Class = "UIButton"; normalTitle = "确定"; ObjectID = "Kxg-FR-4JT"; */
+"Kxg-FR-4JT.normalTitle" = "OK";
+
+/* Class = "UIButton"; normalTitle = "从系统相册中选取"; ObjectID = "Tv0-38-5Fo"; */
+"Tv0-38-5Fo.normalTitle" = "From Album";
+
+/* Class = "UIButton"; normalTitle = "取消"; ObjectID = "VR4-FB-Tfq"; */
+"VR4-FB-Tfq.normalTitle" = "Cancel";

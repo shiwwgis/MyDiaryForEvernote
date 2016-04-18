@@ -1,0 +1,21 @@
+
+/* Class = "UILabel"; text = "用户:"; ObjectID = "289-LC-ev0"; */
+"289-LC-ev0.text" = "User:";
+
+/* Class = "UIButton"; normalTitle = "注销"; ObjectID = "5BK-vQ-zsW"; */
+"5BK-vQ-zsW.normalTitle" = "Logout";
+
+/* Class = "UIButton"; normalTitle = "关闭"; ObjectID = "FTB-iT-lxW"; */
+"FTB-iT-lxW.normalTitle" = "Close";
+
+/* Class = "UILabel"; text = "请选择笔记本"; ObjectID = "HZs-GW-46j"; */
+"HZs-GW-46j.text" = "Select Notebook";
+
+/* Class = "UIButton"; normalTitle = "同步"; ObjectID = "Inw-Ta-sd3"; */
+"Inw-Ta-sd3.normalTitle" = "Sync";
+
+/* Class = "UILabel"; text = "标题:"; ObjectID = "bK6-U9-cET"; */
+"bK6-U9-cET.text" = "Caption:";
+
+/* Class = "UILabel"; text = "标签:"; ObjectID = "uOg-0X-EXW"; */
+"uOg-0X-EXW.text" = "Tab:";

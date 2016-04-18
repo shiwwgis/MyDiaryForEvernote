@@ -1,0 +1,29 @@
+/* 
+  Localizable.strings
+  MyDiaryForEvernote
+
+  Created by shiweiwei on 16/2/29.
+  Copyright © 2016年 shiww. All rights reserved.
+*/
+"SORRY"="Sorry";
+"EVERNOTE_LOGIN_FAILED"="Evernote login failed!";
+"SYSTEMINFO"="System Info";
+"UPLOAD_EVERNOTE_NOW"="Save into Evernote now...";
+"UPLOAD_EVERNOTE_SUCCEED"="Succeed to save into Evernote!";
+"UPLOAD_EVERNOTE_FAIL"="Fail to save into Evernote!";
+"LOGIN_EVERNOTE_NOW"="Login Evernote now...";
+"LOAD_INFO_NOW"="Load info now...";
+"LOAD_INFO_SUCCEED"="Info loaded!";
+"DONT_HAVE_NOTEBOOK"="Don't have notebook";
+"INPUT_AGAIN"="Reinput！";
+"ERROR"="Error";
+"CLOSE"="Close";
+"OK"="OK";
+"CANCEL"="Cancel";
+"INFO"="Info";
+"SAVE_SUCCEED"="Save Ok!";
+"WARNING"="Warning";
+"DELETE_PAGE_CONFIRM"="Sure to delete current page?";
+"CLEAR_PAGE_CONFIRM"="Sure to clear current page?";
+"DIARY"="Diary";
+"BEGIN_WRITEDIARY"="Begin a diary now";
