@@ -90,7 +90,7 @@ class UploadToEvernoteController: UIViewController,UIPickerViewDelegate, UIPicke
             
             var strTemp=resource.mediaTag();
             
-            strTemp=strTemp.stringByReplacingOccurrencesOfString("/>", withString: " style=\"margin: 0px; padding:0px; border-radius:4px;\"/>\n</div>\n</div>");
+            strTemp=strTemp.stringByReplacingOccurrencesOfString("/>", withString: "  width=\"100%\" style=\"margin: 0px; padding:0px; border-radius:4px;\"/>\n</div>\n</div>");
             
             strTemp=strImage+strTemp;
             

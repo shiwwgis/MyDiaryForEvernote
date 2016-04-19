@@ -1236,7 +1236,7 @@
 					"$(PROJECT_DIR)/MyDiaryForEvernote",
 				);
 				OTHER_SWIFT_FLAGS = "-D DEBUG";
-				PRODUCT_BUNDLE_IDENTIFIER = com.shiwwwipad.mydiaryforevernote;
+				PRODUCT_BUNDLE_IDENTIFIER = com.shiwww.mydiaryforevernote;
 				PRODUCT_NAME = MyDiaryForEvernote;
 				PROVISIONING_PROFILE = "";
 				SWIFT_OBJC_BRIDGING_HEADER = "/Users/shizx/Documents/MyDiaryForEvernote/evernote-sdk-ios/ENSDK/ENSDK.h";
@@ -1267,7 +1267,7 @@
 					"$(PROJECT_DIR)/MyDiaryForEvernote",
 				);
 				OTHER_SWIFT_FLAGS = "-D RELEASE";
-				PRODUCT_BUNDLE_IDENTIFIER = com.shiwwwipad.mydiaryforevernote;
+				PRODUCT_BUNDLE_IDENTIFIER = com.shiwww.mydiaryforevernote;
 				PRODUCT_NAME = MyDiaryForEvernote;
 				PROVISIONING_PROFILE = "";
 				SWIFT_OBJC_BRIDGING_HEADER = "/Users/shizx/Documents/MyDiaryForEvernote/evernote-sdk-ios/ENSDK/ENSDK.h";
