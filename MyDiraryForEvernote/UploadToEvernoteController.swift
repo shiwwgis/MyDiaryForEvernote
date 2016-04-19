@@ -19,6 +19,7 @@ class UploadToEvernoteController: UIViewController,UIPickerViewDelegate, UIPicke
         self.dismissViewControllerAnimated(true, completion: nil);
 
     }
+    @IBOutlet weak var btnUpload: UIButton!
     @IBOutlet weak var btnLogin: UIButton!
     @IBOutlet weak var txtPassword: UITextField!
     @IBOutlet weak var txtUserName: UITextField!
@@ -32,7 +33,6 @@ class UploadToEvernoteController: UIViewController,UIPickerViewDelegate, UIPicke
         self.dismissViewControllerAnimated(true, completion: nil);
     }
     
-    @IBOutlet weak var btnUpload: UIButton!
     //执行同步功能
     @IBAction func doUploadToEvernote(sender: UIButton)
     {

@@ -322,7 +322,8 @@ class ViewController: UIViewController,UIPopoverPresentationControllerDelegate,U
         self.loadSystemPara();
         
         //added by shiww,设置默认背景
-        self.board.backgroundColor = UIColor(patternImage: UIImage(named: self.board.bkImgName)!);
+//        self.board.backgroundColor = UIColor(patternImage: UIImage(named: self.board.bkImgName)!);
+        self.setBackgroundColor(UIImage(named: self.board.bkImgName)!)
         
         
         //added by shiww,设置按钮图片和按钮事件

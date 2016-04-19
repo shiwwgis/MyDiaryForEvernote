@@ -7,11 +7,7 @@
     <objects>
         <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner" customClass="UploadToEvernoteController" customModule="MyDiaryForEvernote" customModuleProvider="target">
             <connections>
-<<<<<<< HEAD
-                <outlet property="btnUpload" destination="Inw-Ta-sd3" id="DWW-Ua-SC3"/>
-=======
-                <outlet property="btnUpload" destination="Inw-Ta-sd3" id="fih-7y-qT3"/>
->>>>>>> origin/MyDiaryV10-20160225
+                <outlet property="btnUpload" destination="Inw-Ta-sd3" id="EJw-TC-nWJ"/>
                 <outlet property="pkvNotebook" destination="2Wn-KT-iVa" id="eHG-92-Fqt"/>
                 <outlet property="txtNoteCaption" destination="5Id-Vc-8ux" id="0Rl-1u-BJz"/>
                 <outlet property="txtNoteTab" destination="DlL-KO-RPY" id="iME-AB-fXT"/>

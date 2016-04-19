@@ -700,7 +700,10 @@ class Board: UIImageView {
             
             // 用 Ended 事件代替原先的 Began 事件
             if self.drawingState == .Ended {
-                self.boardUndoManager.addImage(self.image!)
+                if self.image != nil
+                {
+                    self.boardUndoManager.addImage(self.image!)
+                }
             }
             
             self.image = previewImage
