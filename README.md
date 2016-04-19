@@ -8,6 +8,6 @@ support multipages<br />
 save notes into system album<br />
 
 ![image](https://github.com/shiwwgis/MyDiaryForEvernote/blob/master/ScreenShots/IMG_0114_1.PNG)<br />
-![image](https://github.com/shiwwgis/MyDiaryForEvernote/blob/master/ScreenShots/ScreenShots/IMG_0115_1.PNG)<br />
-![image](https://github.com/shiwwgis/MyDiaryForEvernote/blob/master/ScreenShots/ScreenShots/IMG_0116_1.PNG)<br />
-![image](https://github.com/shiwwgis/MyDiaryForEvernote/blob/master/ScreenShots/ScreenShots/IMG_0117_1.PNG)<br />
+![image](https://github.com/shiwwgis/MyDiaryForEvernote/blob/master/ScreenShots/IMG_0115_1.PNG)<br />
+![image](https://github.com/shiwwgis/MyDiaryForEvernote/blob/master/ScreenShots/IMG_0116_1.PNG)<br />
+![image](https://github.com/shiwwgis/MyDiaryForEvernote/blob/master/ScreenShots/IMG_0117_1.PNG)<br />
