@@ -202,6 +202,8 @@ class Pages:NSObject
 
 class Board: UIImageView {
     
+    var hasPencil=false;//是否连接了apple pencil
+    
     private var eraserCursor:UIImageView?;
     private var pencilTouch:UITouch?;//added by shiww
     private var pencilEvent: UIEvent?;//added by shiww
@@ -505,13 +507,12 @@ class Board: UIImageView {
             return;
         }
         
-        //只支持apple pencil
-        #if RELEASE
-            if touches.first!.type != .Stylus
+        //如果连接了pencil,只支持apple pencil
+            if self.hasPencil && touches.first!.type != .Stylus
             {
                 return;
             }
-        #endif
+        //end
         
         if let brush = self.brush {
             brush.lastPoint = nil
@@ -545,17 +546,17 @@ class Board: UIImageView {
     }
     
     override func touchesMoved(touches: Set<UITouch>, withEvent event: UIEvent?) {
+        //print("touches.count=\(touches.count),taps=\(touches.first!.tapCount)")
         if touches.count>=2
         {
             return;
         }
-        //只支持apple pencil
-        #if RELEASE
-            if touches.first!.type != .Stylus
-            {
-                return;
-            }
-        #endif
+        //如果连接了pencil,只支持apple pencil
+        if self.hasPencil && touches.first!.type != .Stylus
+        {
+            return;
+        }
+        //end
         
         if let brush = self.brush {
             brush.endPoint = touches.first!.preciseLocationInView(touches.first!.view);
@@ -593,13 +594,12 @@ class Board: UIImageView {
             return;
         }
         
-        //只支持apple pencil
-        #if RELEASE
-            if touches.first!.type != .Stylus
-            {
-                return;
-            }
-        #endif
+        //如果连接了pencil,只支持apple pencil
+        if self.hasPencil && touches.first!.type != .Stylus
+        {
+            return;
+        }
+        //end
         
         if let brush = self.brush {
             brush.endPoint = touches.first!.preciseLocationInView(touches.first!.view);

@@ -7,6 +7,8 @@
 //
 
 import UIKit
+import CoreBluetooth
+
 //MARK:- 在Controller里扩展一个消息提示框
 extension UIViewController//实现一个提示框
 {
@@ -291,6 +293,21 @@ class ViewController: UIViewController,UIPopoverPresentationControllerDelegate,U
         super.viewDidLoad()
         // Do any additional setup after loading the view, typically from a nib.
         
+        let cbCentralMgr=CBCentralManager();
+        let exDevices=cbCentralMgr.retrieveConnectedPeripheralsWithServices([CBUUID(string: "180A")]);
+        
+        //            print(exDevices.count);
+        
+        
+        for exDevice in exDevices
+        {
+            if exDevice.name=="Apple Pencil"
+            {
+                self.board.hasPencil=true;
+            }
+            
+        }
+
         //处理一下视图大小
         //1.让board充满大小
         let viewBounds=self.view.bounds;

@@ -10,11 +10,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "MyDiraryForEvernote/ViewController.swift"
-            timestampString = "478670748.962873"
+            timestampString = "483601220.683782"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "162"
-            endingLineNumber = "162"
+            startingLineNumber = "164"
+            endingLineNumber = "164"
             landmarkName = "doPenSwitch(_:)"
             landmarkType = "5">
          </BreakpointContent>
@@ -42,11 +42,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "MyDiraryForEvernote/ViewController.swift"
-            timestampString = "478453753.74873"
+            timestampString = "483601220.683782"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "18"
-            endingLineNumber = "18"
+            startingLineNumber = "20"
+            endingLineNumber = "20"
             landmarkName = "ShowNotice(_:_:)"
             landmarkType = "5">
          </BreakpointContent>
@@ -74,11 +74,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "MyDiraryForEvernote/ViewController.swift"
-            timestampString = "478670748.962873"
+            timestampString = "483601220.683782"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "179"
-            endingLineNumber = "179"
+            startingLineNumber = "181"
+            endingLineNumber = "181"
             landmarkName = "doPenSwitch(_:)"
             landmarkType = "5">
          </BreakpointContent>
@@ -90,11 +90,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "MyDiraryForEvernote/ViewController.swift"
-            timestampString = "478670748.962873"
+            timestampString = "483601220.683782"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "146"
-            endingLineNumber = "146"
+            startingLineNumber = "148"
+            endingLineNumber = "148"
             landmarkName = "doPenSwitch(_:)"
             landmarkType = "5">
          </BreakpointContent>
@@ -186,11 +186,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "MyDiraryForEvernote/ViewController.swift"
-            timestampString = "482720942.388908"
+            timestampString = "483601220.683782"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "460"
-            endingLineNumber = "460"
+            startingLineNumber = "477"
+            endingLineNumber = "477"
             landmarkName = "doRemoveCurPage(_:)"
             landmarkType = "5">
          </BreakpointContent>
@@ -234,11 +234,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "MyDiraryForEvernote/ViewController.swift"
-            timestampString = "478671294.007636"
+            timestampString = "483601220.683782"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "203"
-            endingLineNumber = "203"
+            startingLineNumber = "205"
+            endingLineNumber = "205"
             landmarkName = "imagePickerController(_:didFinishPickingMediaWithInfo:)"
             landmarkType = "5">
          </BreakpointContent>
@@ -250,11 +250,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "MyDiraryForEvernote/ViewController.swift"
-            timestampString = "478670863.853897"
+            timestampString = "483601220.683782"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "193"
-            endingLineNumber = "193"
+            startingLineNumber = "195"
+            endingLineNumber = "195"
             landmarkName = "doPenSwitch(_:)"
             landmarkType = "5">
          </BreakpointContent>
@@ -266,11 +266,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "MyDiraryForEvernote/ViewController.swift"
-            timestampString = "478671101.675021"
+            timestampString = "483601220.683782"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "175"
-            endingLineNumber = "175"
+            startingLineNumber = "177"
+            endingLineNumber = "177"
             landmarkName = "doPenSwitch(_:)"
             landmarkType = "5">
          </BreakpointContent>
@@ -282,11 +282,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "MyDiraryForEvernote/ViewController.swift"
-            timestampString = "482720942.388908"
+            timestampString = "483601220.683782"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "407"
-            endingLineNumber = "407"
+            startingLineNumber = "424"
+            endingLineNumber = "424"
             landmarkName = "viewDidLoad()"
             landmarkType = "5">
          </BreakpointContent>
@@ -298,11 +298,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "MyDiraryForEvernote/ViewController.swift"
-            timestampString = "482720942.388908"
+            timestampString = "483601220.683782"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "449"
-            endingLineNumber = "449"
+            startingLineNumber = "466"
+            endingLineNumber = "466"
             landmarkName = "doRemoveCurPage(_:)"
             landmarkType = "5">
          </BreakpointContent>
@@ -314,11 +314,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "MyDiraryForEvernote/ViewController.swift"
-            timestampString = "482720942.388908"
+            timestampString = "483601220.683782"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "508"
-            endingLineNumber = "508"
+            startingLineNumber = "525"
+            endingLineNumber = "525"
             landmarkName = "nextPage(_:)"
             landmarkType = "5">
          </BreakpointContent>
@@ -330,11 +330,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "MyDiraryForEvernote/ViewController.swift"
-            timestampString = "482720942.388908"
+            timestampString = "483601220.683782"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "494"
-            endingLineNumber = "494"
+            startingLineNumber = "511"
+            endingLineNumber = "511"
             landmarkName = "prevPage(_:)"
             landmarkType = "5">
             <Locations>
@@ -394,11 +394,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "MyDiraryForEvernote/ViewController.swift"
-            timestampString = "478693921.747531"
+            timestampString = "483601220.683782"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "145"
-            endingLineNumber = "145"
+            startingLineNumber = "147"
+            endingLineNumber = "147"
             landmarkName = "doPenSwitch(_:)"
             landmarkType = "5">
             <Locations>
@@ -522,12 +522,44 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "MyDiraryForEvernote/ViewController.swift"
-            timestampString = "480775141.073298"
+            timestampString = "483601220.683782"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "82"
-            endingLineNumber = "82"
+            startingLineNumber = "84"
+            endingLineNumber = "84"
             landmarkName = "doUploadToEvernote(_:)"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MyDiraryForEvernote/ViewController.swift"
+            timestampString = "483601220.907123"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "306"
+            endingLineNumber = "306"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MyDiraryForEvernote/Base/Board.swift"
+            timestampString = "483601265.704296"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "513"
+            endingLineNumber = "513"
+            landmarkName = "touchesBegan(_:withEvent:)"
             landmarkType = "5">
          </BreakpointContent>
       </BreakpointProxy>

@@ -1270,7 +1270,7 @@
 					"$(inherited)",
 					"$(PROJECT_DIR)/MyDiaryForEvernote",
 				);
-				OTHER_SWIFT_FLAGS = "-D RELEASE";
+				OTHER_SWIFT_FLAGS = "";
 				PRODUCT_BUNDLE_IDENTIFIER = com.shiweiwei.app;
 				PRODUCT_NAME = MyDiaryForEvernote;
 				PROVISIONING_PROFILE = "";

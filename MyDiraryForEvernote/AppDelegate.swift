@@ -61,7 +61,7 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
         didFinishLaunchingWithOptions launchOptions: [NSObject: AnyObject]?) -> Bool {
             // Override point for customization after application launch.
             NSThread.sleepForTimeInterval(1.0);
-            
+            /*
             #if RELEASE
                 //判断是否是ipad pro,并且连接了apple pencil
                 //1.is iPad Pro?
@@ -96,8 +96,11 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
                 }
                 
             #endif
-            
-            
+            */
+        
+        
+        
+        
             // 得到当前应用的版本号
             let infoDictionary = NSBundle.mainBundle().infoDictionary
             let currentAppVersion = infoDictionary!["CFBundleShortVersionString"] as! String
