@@ -14,7 +14,7 @@
 App Store地址:https://itunes.apple.com/cn/app/wo-ai-xie-ri-ji/id1105776011?mt=8
 
 
-![image](https://github.com/shiwwgis/MyDiaryForEvernote/blob/master/ScreenShots/IMG_0114_1.PNG)<br />
-![image](https://github.com/shiwwgis/MyDiaryForEvernote/blob/master/ScreenShots/IMG_0115_1.PNG)<br />
-![image](https://github.com/shiwwgis/MyDiaryForEvernote/blob/master/ScreenShots/IMG_0116_1.PNG)<br />
-![image](https://github.com/shiwwgis/MyDiaryForEvernote/blob/master/ScreenShots/IMG_0117_1.PNG)<br />
+![image](https://github.com/shiwwgis/MyDiaryForEvernote/blob/master/ScreenShots/IMG_0191.PNG)<br />
+![image](https://github.com/shiwwgis/MyDiaryForEvernote/blob/master/ScreenShots/IMG_0192.PNG)<br />
+![image](https://github.com/shiwwgis/MyDiaryForEvernote/blob/master/ScreenShots/IMG_0193.PNG)<br />
+![image](https://github.com/shiwwgis/MyDiaryForEvernote/blob/master/ScreenShots/IMG_0194.PNG)<br />
